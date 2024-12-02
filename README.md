@@ -13,7 +13,7 @@ Este podcast de 5 minutos oferece uma visão equilibrada e neutra sobre a inters
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao tema da Filosofia e Inteligência Artificial, ideal para quem busca uma compreensão rápida e reflexiva sobre o assunto.
 
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O PODCAST AQUI](https://notebooklm.google.com/notebook/5806a241-fefe-4abb-a409-06cf839ce309?original_referer=https:%2F%2Fwww.bing.com%23&pli=1&authuser=0)
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo, apesar das limitações linguísticas de algumas ferramentas. A experiência evidencia a necessidade de expandir o suporte para múltiplos idiomas, abrindo novos caminhos para a produção de mídia digital em diversas línguas.
